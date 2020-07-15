@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Performa Web
-- 🌱 I’m currently learning Svelte
+- 🌱 I’m currently learning Svelte, VTex IO & IT Management
 - 👯 I’m looking to collaborate on OSS projects
 - 💬 Ask me about front end questions
 - 📫 How to reach me: contato@renatoricco.com
