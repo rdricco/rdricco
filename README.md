@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Performa Web
 - 🌱 I’m currently learning Svelte
 - 👯 I’m looking to collaborate on OSS projects
