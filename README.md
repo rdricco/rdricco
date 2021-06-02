@@ -6,7 +6,7 @@
       <b>A passionate developer who loves to learn new things.</b>
       <br><br>
       <ul>
-        <li>Front-End Developer on Performa Web</li>
+        <li>Software Engineer on acct.global</li>
         <li>Open-source enthusiast</li>
         <li>I’m currently learning Svelte, VTex IO & IT Management</li>
         <li>Biker for health</li>
