@@ -8,7 +8,7 @@
       <ul>
         <li>Solutions Architect on acct.global</li>
         <li>Open-source enthusiast</li>
-        <li>I’m currently learning Svelte, VTex IO & IT Management</li>
+        <li>I’m currently learning Svelte, MACH & IT Management</li>
         <li>Biker for health</li>
         <li>What I'm listening to: <a href="https://www.last.fm/user/renatoakamur" alt="Last.fm">Last.fm</a></li>
       </ul>  
