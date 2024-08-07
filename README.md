@@ -3,7 +3,7 @@
   <tr>
     <td>
       <h1> Who am I? </h1>
-      <b>A passionate developer who loves to learn new things.</b>
+      <b>A designer/developer who loves to learn new things.</b>
       <br><br>
       <ul>
         <li>Solutions Architect on acct.global</li>
