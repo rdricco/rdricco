@@ -6,9 +6,9 @@
       <b>A designer/developer who loves to learn new things.</b>
       <br><br>
       <ul>
-        <li>Solutions Architect on acct.global</li>
+        <li>Solutions Architect focused on ecommerce</li>
         <li>Open-source enthusiast</li>
-        <li>I’m currently learning Svelte, MACH & IT Management</li>
+        <li>I’m currently on Svelte/Astrojs, MACH & IT Management. Call me if you want us to work together.</li>
         <li>Biker for health</li>
         <li>What I'm listening to: <a href="https://www.last.fm/user/renatoakamur" alt="Last.fm">Last.fm</a></li>
       </ul>  
